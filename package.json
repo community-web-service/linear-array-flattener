@@ -17,7 +17,7 @@
 	"license":"Apache-2.0",
 	"repository":{
 		"type":"git",
-		"url":"https://github.com/npm/cli.git"
+		"url":"https://github.com/community-web-service/linear-array-flattener"
 	},
 	"bugs":{
 		"email":"rob@communitywebservice.com",
