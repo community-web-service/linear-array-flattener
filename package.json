@@ -1,0 +1,35 @@
+{
+  "name": "linear-array-flattener",
+  "version": "1.0.0",
+  "description": "Linear function to flatten a multi-dimensional array of arbitrary depth.",
+  "homepage": "https://github.com/community-web-service/linear-array-flattener",
+  "author": {
+    "name": "Robert Gaines",
+    "email": "rob@communitywebservice.com",
+    "url": "https://www.communitywebservice.com"
+  },
+  "contributors": [
+    {
+      "name": "axelduch",
+      "url": "https://github.com/axelduch"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "email": "rob@communitywebservice.com",
+    "url": "https://www.communitywebservice.com"
+  },
+  "directories": {
+    "doc": "./doc"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "function",
+    "array",
+    "array.flat"
+  ]
+}
