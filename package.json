@@ -1,6 +1,6 @@
 {
 	"name":"linear-array-flattener",
-	"version":"1.0.0",
+	"version":"1.0.1",
 	"description":"Linear function to flatten a multi-dimensional array of arbitrary depth.",
 	"homepage":"https://github.com/community-web-service/linear-array-flattener",
 	"author":{
